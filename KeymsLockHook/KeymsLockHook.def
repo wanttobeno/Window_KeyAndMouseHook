@@ -1,0 +1,3 @@
+LIBRARY KeymsLockHook
+EXPORTS
+SetKeymsHook

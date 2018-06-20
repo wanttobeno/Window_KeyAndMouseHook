@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeymsLockHook", "KeymsLockHook\KeymsLockHook.vcxproj", "{AEB78810-FED2-42FC-8EFD-3D24106EAB15}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoadHook", "LoadHook\LoadHook.vcxproj", "{4A629545-5DA2-414B-B017-3F5B058203A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB78810-FED2-42FC-8EFD-3D24106EAB15}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEB78810-FED2-42FC-8EFD-3D24106EAB15}.Debug|Win32.Build.0 = Debug|Win32
+		{AEB78810-FED2-42FC-8EFD-3D24106EAB15}.Release|Win32.ActiveCfg = Release|Win32
+		{AEB78810-FED2-42FC-8EFD-3D24106EAB15}.Release|Win32.Build.0 = Release|Win32
+		{4A629545-5DA2-414B-B017-3F5B058203A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A629545-5DA2-414B-B017-3F5B058203A0}.Debug|Win32.Build.0 = Debug|Win32
+		{4A629545-5DA2-414B-B017-3F5B058203A0}.Release|Win32.ActiveCfg = Release|Win32
+		{4A629545-5DA2-414B-B017-3F5B058203A0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
